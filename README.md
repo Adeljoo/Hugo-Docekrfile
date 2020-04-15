@@ -1,1 +1,1 @@
-# Hugo-Docekrfile
+# Hugo-Dockerfile
